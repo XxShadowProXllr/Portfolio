@@ -1,0 +1,21 @@
+body {
+  font-family: 'Work Sans', sans-serif;
+  --bs-primary: #1c3dca;
+  --bs-primary-rgb: 28,61,202;
+  --bs-info: #02aaff;
+  --bs-info-rgb: 2,170,255;
+  --bs-dark: #1a1a1a;
+  --bs-dark-rgb: 19,20,22;
+  --bs-body-color: var(--bs-white);
+  --bs-body-bg: var(--bs-dark);
+  --bs-body-font-weight: 300;
+  border-style: none;
+}
+
+h1 {
+  font-size: 40px;
+  color: var(--bs-form-invalid-border-color);
+  /*display: initial;*/
+  /*text-align: center;*/
+}
+
